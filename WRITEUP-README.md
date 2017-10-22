@@ -104,7 +104,7 @@ For the project, I reset the values for the filtering, RANSAC, and segmentation,
 
 Due the project requiring to recognize more objects for pick_list_3, I decided to perform the capture_features.py job using a 50 iterations loop. This made the training_set.sav data to be more accurate and producing better model.sav data for object recognition efforts. 
 
-The following images display the 3 object recognition tasks with the 3 different pick_list yaml files.
+The following images display the 3 object recognition tasks with the 3 different pick_list yaml files. Managed to obtain a 100% object recognition result for 2 out of 3 pick_list (miss one object for pick_list_3.yaml).
 
 ![alt text][image9]
 ###### **Figure**  **9** : Object Recognition with pick_list_1.yaml
@@ -146,10 +146,3 @@ One of the troubles I came across, was that the model was mistakenly recognizing
     cloud_filtered = passthrough.filter()
 	
 Given more time, I would pursue a full pick_place_routine by using techniques learned from the Kinematics Lessons. This is a very interesting topic and I'm hoping to look further into other possible techniques within computer vision and more complex object recognition.
-
-
-
-
-
-
-
