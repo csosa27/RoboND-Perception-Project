@@ -118,7 +118,7 @@ The following images display the 3 object recognition tasks with the 3 different
 
 Spend some time at the end to discuss your code, what techniques you used, what worked and why, where the implementation might fail and how you might improve it if you were going to pursue this project further.  
 
-Most of the effort was already performed for the Perception Exercises, therefore; aside from testing out new filter, RANSAC, and segmentation values; the output files were the main concern. To obtain the pick_pose I followed the instructions from the [Output Yaml Files] Lesson (https://classroom.udacity.com/nanodegrees/nd209/parts/586e8e81-fc68-4f71-9cab-98ccd4766cfe/modules/e5bfcfbd-3f7d-43fe-8248-0c65d910345a/lessons/e3e5fd8e-2f76-4169-a5bc-5a128d380155/concepts/f816b260-335a-40ec-883b-18ab27067205) by obtaining the object cloud centroid. 
+Most of the effort was already performed for the Perception Exercises, therefore; aside from testing out new filter, RANSAC, and segmentation values; the output files were the main concern. To obtain the pick_pose I followed the instructions from the [Output Yaml FilesLesson](https://classroom.udacity.com/nanodegrees/nd209/parts/586e8e81-fc68-4f71-9cab-98ccd4766cfe/modules/e5bfcfbd-3f7d-43fe-8248-0c65d910345a/lessons/e3e5fd8e-2f76-4169-a5bc-5a128d380155/concepts/f816b260-335a-40ec-883b-18ab27067205) by obtaining the object cloud centroid. 
 
 For the place_pose and arm_name, I used the following code which is based on the group (color) from the object_list and then deciding which arm to use based on the dropbox where each object was supposed to be placed.
 
