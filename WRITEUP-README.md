@@ -27,7 +27,7 @@
 [//]: # (Image References)
 
 [image1]: ./misc_images/exercise_1_outliers.JPG
-[image2]: ./misc_images/exercise_1_inliers.jpg
+[image2]: ./misc_images/exercise_1_inliers.JPG
 [image3]: ./misc_images/exercise_2_objects.JPG
 [image4]: ./misc_images/exercise_2_cluster.jpg
 [image5]: ./misc_images/exercise_3_capture.JPG
