@@ -29,13 +29,13 @@
 [image1]: ./misc_images/exercise_1_outliers.JPG
 [image2]: ./misc_images/exercise_1_inliers.JPG
 [image3]: ./misc_images/exercise_2_objects.JPG
-[image4]: ./misc_images/exercise_2_cluster.jpg
+[image4]: ./misc_images/exercise_2_cluster.JPG
 [image5]: ./misc_images/exercise_3_capture.JPG
-[image6]: ./misc_images/exercise_3_train_graph.jpg
+[image6]: ./misc_images/exercise_3_train_graph.JPG
 [image7]: ./misc_images/exercise_3_object_recognition.JPG
-[image8]: ./misc_images/train_svm_graph.jpg
+[image8]: ./misc_images/train_svm_graph.JPG
 [image9]: ./misc_images/recognition_rviz_1.JPG
-[image10]: ./misc_images/recognition_rviz_2.jpg
+[image10]: ./misc_images/recognition_rviz_2.JPG
 [image11]: ./misc_images/recognition_rviz_3.JPG
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/1067/view) Points
